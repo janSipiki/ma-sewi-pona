@@ -1,4 +1,16 @@
 # welcome to MA SEWI PONA
-ma sewi pona will be a VRChat world made for MA TOKI PONA VR
+ma sewi pona will be a VRChat world made for MA TOKI PONA VR!
 
-yeah
+it will have:
+
+```
+   ######
+ ############
+### tree #####
+  ##########
+    |||||
+    |||||
+   ///||\\
+  /\//\\ \\
+```
+and even more!!!
